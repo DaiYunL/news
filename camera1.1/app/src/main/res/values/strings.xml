@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">拍照查字典</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="fanhui">返回</string>
+    <string name="title_activity_result_show">查询结果</string>
+</resources>
